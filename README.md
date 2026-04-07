@@ -1,7 +1,7 @@
-# vignere
+# vigenere
 - Instruções para compilação: 
-``gcc vignere.c -o vignere``
+``gcc vigenere.c -o vigenere``
 ``gcc attack.c -o attack``
 
 - Execução:
-``./vignere`` e ``./attack``
+``./vigenere`` e ``./attack``
